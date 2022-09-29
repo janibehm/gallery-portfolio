@@ -9,7 +9,7 @@ const NavBar = () => {
         <div className={styles.frontNav}>
           <nav>
             <Link href="/">
-              <a>ETUSIVU</a>
+              <a>HOME</a>
             </Link>
             <Link href="/gallery">
               <a>GALLERY</a>
