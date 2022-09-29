@@ -1,0 +1,27 @@
+.frontNav {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 1rem;
+}
+
+.frontNav a {
+  color: #fff;
+  text-decoration: none;
+  padding: 1rem;
+  border: 1px solid #fff;
+  margin: 0 0.6rem;
+}
+
+.homePageNavContainer {
+  padding-top: 3em;
+}
+
+.homePageTextContainer {
+  margin: 0 auto;
+  padding-top: 2em;
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  font-size: 16px;
+}

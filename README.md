@@ -6,6 +6,8 @@ In the "image-gallery" section the images are fetched from Supabase with Postgre
 I hope this project may help you understand technologies used in this app.
 If there's something you're curious about this project you can contact me and I will try to reply as soon as possible.
 
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -27,6 +29,4 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
 # gallery
-# janibehm-site
-# gallery-portfolio
-# gallery-portfolio
+
