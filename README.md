@@ -1,10 +1,12 @@
-The stack I used on this app is the following: React, NextJs, TailwindCss, PostgreSQL and SupaBase for storage purposes.
+This app is simple photo gallery. My main goal was to learn more about NextJs, TailwindCss and Databases.
+
+The stack I used on this app is the following: NextJs, TailwindCss, PostgreSQL and SupaBase for storage purposes.
  
 In the front-end I used React and NextJs. The project is deployed on Vercel.
 In the "image-gallery" section the images are fetched from Supabase with PostgresSQL.
-(I will write more in-depth analysis about this project in near future)
-I hope this project may help you understand technologies used in this app.
-If there's something you're curious about this project you can contact me and I will try to reply as soon as possible.
+
+
+<img width="1433" alt="Screenshot 2023-12-10 at 22 03 17" src="https://github.com/janibehm/gallery-portfolio/assets/71294621/9e2b6817-871b-444e-ac14-b9023edac78b">
 
 
 
